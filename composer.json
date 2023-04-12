@@ -1,0 +1,15 @@
+{
+    "name": "mpbzh/php-rgb-hsl-converter",
+    "description": "PHP-RGB-HSL-Converter",
+    "type": "library",
+    "require-dev": {
+    },
+    "authors": [
+        {
+            "name": "Michael Burri",
+            "email": ""
+        }
+    ],
+    "require": {
+    }
+}
